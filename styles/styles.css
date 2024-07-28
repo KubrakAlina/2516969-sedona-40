@@ -220,7 +220,6 @@ body {
   background-position: bottom;
   padding-top: 50px;
   padding-bottom: 82px;
-  height: 484px;
   box-sizing: border-box;
 }
 
@@ -230,7 +229,6 @@ body {
   object-fit: contain;
   display: block;
   margin: 0 auto;
-  width: 458px;
 }
 
 .about-sedona {
